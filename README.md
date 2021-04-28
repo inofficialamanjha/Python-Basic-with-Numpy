@@ -1,6 +1,33 @@
 # PYTHON
 
+Contains :
 
+**Python Basic*
+
+Cells containing basics Syntax pertaining to Python :
+- Basic Execution
+- Variables & Type Conversion
+- Input / Output
+- String, Lists, Tuples & Dictionaries
+- Aritmetic Operation & Match Functions
+- Conditional Statements ( If-Else )
+- Iterational Statements ( Loops )
+- Functions
+- Exceptions and Error Handling
+- Classes and Inheritance
+- Modules and Packages
+
+**Automation with Python** : Codes relating to Spreadsheet Processing
+
+**Machine Learning Basics**
+
+Cells Containing Basic Machine Learning Processes :
+- Importing of Data
+- Cleaning of Data and Coversion to Numerical Values ( Pre-Processing )
+- Division of Data into Sets
+- Creating a Model Architecture
+- Making Predictions
+- Evaluation and Improvement
 
 # NUMPY
 
