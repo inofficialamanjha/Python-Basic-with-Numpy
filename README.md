@@ -2,7 +2,7 @@
 
 Contains :
 
-**Python Basic*
+**Python Basic**
 
 Cells containing basics Syntax pertaining to Python :
 - Basic Execution
