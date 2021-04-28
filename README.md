@@ -1,2 +1,4 @@
-# Python-Basic-with-Numpy
-Contains Various Python Syntax Codes and Programming Methodologies depictions over a Interactive Python Jupyter Notebook File.
+# REFERENCES
+
+- [**Python Tutorial - FreeCodeCamps.Org**](https://www.youtube.com/watch?v=kqtD5dpn9C8)
+- [**Numpy Tutorial - FreeCodeCamps.Org**](https://www.youtube.com/watch?v=GB9ByFAIAH4)
